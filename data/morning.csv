@@ -1,0 +1,6 @@
+shipment_id,city,status,version
+S101,Dallas,SHIPPED,1
+S102,Austin,PROCESSING,1
+S103,Houston,DELIVERED,1
+S103,Houston,DELIVERED,1
+S104,Plano,UNKNOWN,1

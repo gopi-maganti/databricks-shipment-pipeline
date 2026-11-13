@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Databricks local credentials and state
+.databrickscfg
+.databricks/
+.env.*
+.DS_Store
